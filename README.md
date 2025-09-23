@@ -16,7 +16,8 @@
  
  **Machine Learning & NLP** |  **Full-Stack Development**
 
-Currently developing **predictive maintenance platforms** and **cabin entertainment systems** for commercial aircraft
+Currently developing **predictive maintenance platforms** and **cabin entertainment systems** for commercial aircraft.
+
 Passionate about music production and creating remixes.
 
 </div>
