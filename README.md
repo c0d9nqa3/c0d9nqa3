@@ -19,10 +19,6 @@
 Currently developing **predictive maintenance platforms** and **cabin entertainment systems** for commercial aircraft
 
 </div>
-
-
-## 🌟 Let's Connect!
-
 <div align="center">
 
 Wj.yann@outlook.com
