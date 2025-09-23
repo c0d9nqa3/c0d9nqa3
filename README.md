@@ -1,50 +1,36 @@
-# Weijia.Yan
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=2E3440&center=true&vCenter=true&width=500&lines=Hello+I'm+[Your Name];Embedded+Software+Engineer;Avionics+Systems+Specialist" alt="Typing Introduction" />
+</h1>
 
-Embedded Software Engineer specializing in Avionics Systems and Communication Protocols.
+<p align="center">
+  Developing
+</p>
 
-## Professional Summary
+---
 
-Master of Science in Software Engineering Systems with a strong background in embedded development for the aerospace industry. Proven experience in developing and optimizing low-level drivers and systems for commercial aircraft, with a focus on ARINC 429 and ARINC 717 data bus protocols. Combines deep technical expertise in C/C++ and Python with a systematic approach to problem-solving in safety-critical environments.
+### 🛠️ Core Expertise
 
-## Technical Skills
+| Domain | Technologies & Skills |
+|--------|----------------------|
+| **Avionics & Embedded** | C, C++, ARINC 429/717, Embedded Linux, RTOS, Driver Development, Predictive Maintenance |
+| **Software Engineering** | Python, Java, System Architecture, Algorithm Design, Real-Time Systems |
+| **Tools & Platforms** | Git, Docker, AWS, MATLAB, Hardware Debugging Tools |
 
-*   **Programming Languages:** C, C++, Python, Java
-*   **Avionics Protocols:** ARINC 429, ARINC 717
-*   **Embedded Systems:** Embedded Linux, Driver Development, Real-Time Operating Systems (RTOS), Predictive Maintenance
-*   **Frameworks & Tools:** Spring Boot, Django, TensorFlow, PyTorch, AWS, Docker, Git
-*   **Data & Analysis:** SQL, PowerBI, Machine Learning, Natural Language Processing (NLP)
+---
 
-## Experience
+### 🔬 Current Focus
 
-### Embedded Software Engineer | Shanghai Research Institute
-*June 2025 - Present*
+- **Primary Role**: Embedded Software Engineer at a research institute, working on avionics systems for commercial aircraft.
+- **Key Projects**: 
+  - Development of low-level drivers for ARINC 717 flight data acquisition
+  - Implementation of cabin entertainment systems on Android-based platforms
+  - Design of predictive maintenance platforms for aircraft systems
+- **Professional Development**: Deepening expertise in safety-critical standards (DO-178C) and real-time operating systems.
 
-*   Developed drivers for ARINC 717 data acquisition units, ensuring reliable data communication for flight systems.
-*   Contributed to the development of an Android-based In-Flight Entertainment system, focusing on cabin broadcast and media playback modules.
-*   Designed and implemented a predictive maintenance platform for critical aircraft systems, utilizing multi-sensor data fusion for fault forecasting.
+---
 
-### Product Data Intern | Avatr Technology
-*April 2024 - August 2024*
+📫 Contact & Connectivity
+<p align="center"> <a href="[Your LinkedIn URL]"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:[your.email@domain.com]"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="[Your Portfolio or Blog URL]"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /> </a> </p><div align="center">
+https://komarev.com/ghpvc/?username=%5BYourUsername%5D&style=flat-square&color=blue&label=Profile+Views
 
-*   Developed an NLP system for VOC analysis, achieving a 93% success rate in automated problem classification.
-*   Optimized data processing workflows on a low-code platform, handling over 600 data entries weekly.
-
-## Projects
-
-### Avionics Communication Driver Development
-*   Designed and implemented reliable drivers for avionics data bus protocols, including ARINC 429, for critical aircraft systems.
-
-### Predictive Maintenance Platform
-*   Architected a platform for large-scale equipment, integrating sensor data and predictive algorithms to reduce unplanned downtime.
-
-### In-Flight Entertainment System
-*   Developed core functional modules for a commercial aircraft cabin system, enhancing passenger experience and operational efficiency.
-
-## Education
-
-*   **M.S. in Software Engineering Systems,** Northeastern University (Boston) (2023-2025)
-*   **B.S. in Software Engineering,** Shanghai University of Electric Power (Shanghai) (2019-2023)
-
-## Contact
-
-*   Email: Wj.yann@outlook.com
+</div> 
