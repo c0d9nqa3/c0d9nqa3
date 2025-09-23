@@ -12,8 +12,8 @@
 
 <div class="floating" style="font-size: 0.9em;">
 
- **Embedded Software Engineer** |  **Aviation Systems Specialist**  
- **Master's in Software Engineering** - Northeastern University
+ **Embedded Software Engineer** |  **Aviation Systems**  
+ **Master's in Software Engineering** - **Northeastern University**
  **Machine Learning & NLP** |  **Full-Stack Development**
 
 Currently developing **predictive maintenance platforms** and **cabin entertainment systems** for commercial aircraft
@@ -30,9 +30,6 @@ Wj.yann@outlook.com
   ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge)
   
 </div>
-
----
-
 <div align="center" class="floating">
 
 *Always excited to collaborate on innovative projects and discuss cutting-edge technologies!*
