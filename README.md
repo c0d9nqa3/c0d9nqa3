@@ -20,7 +20,6 @@ Currently developing **predictive maintenance platforms** and **cabin entertainm
 
 </div>
 
----
 
 ## 🌟 Let's Connect!
 
@@ -42,10 +41,4 @@ Wj.yann@outlook.com
 
 *Always excited to collaborate on innovative projects and discuss cutting-edge technologies!*
 
-</div>
-
-<div align="center">
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
 </div>
