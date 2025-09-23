@@ -8,7 +8,7 @@
 
 <div class="floating" align="center" style="font-size: 0.9em;">
 
- **Embedded Software Engineer** |  **Aviation Systems**  
+ **Embedded Software Engineer at a Shanghai-based research institute** |  **Aviation Systems**  
  **Master's in Software Engineering** - **Northeastern University**
  **Machine Learning & NLP** |  **Full-Stack Development**
 
