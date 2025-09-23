@@ -20,14 +20,6 @@ Currently developing **predictive maintenance platforms** and **cabin entertainm
 
 Passionate about music production and creating remixes.
 
-### 🎵 Music Production
-
-**Amateur music producer**
-
-**Latest Releases:**
-[![bilibili]](https://space.bilibili.com/157652774)
-
-<!-- 如果SoundCloud提供嵌入代码，可以放在这里 -->
 </div>
 <div align="center">
 
