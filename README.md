@@ -6,10 +6,6 @@
   
 </div>
 
-
-
-## About Me
-
 <div class="floating" style="font-size: 0.9em;">
 
  **Embedded Software Engineer** |  **Aviation Systems**  
