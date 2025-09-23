@@ -8,13 +8,13 @@
 
 
 
-## 🚀 About Me
+## About Me
 
 <div class="floating" style="font-size: 0.9em;">
 
-🔧 **Embedded Software Engineer** | 🛩️ **Aviation Systems Specialist**  
-🎓 **Master's in Software Engineering** - Northeastern University
-🤖 **Machine Learning & NLP** | 🌐 **Full-Stack Development**
+ **Embedded Software Engineer** |  **Aviation Systems Specialist**  
+ **Master's in Software Engineering** - Northeastern University
+ **Machine Learning & NLP** |  **Full-Stack Development**
 
 Currently developing **predictive maintenance platforms** and **cabin entertainment systems** for commercial aircraft
 
