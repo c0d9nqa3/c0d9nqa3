@@ -6,17 +6,7 @@
   
 </div>
 
-<style>
-.floating {
-  animation: floating 3s ease-in-out infinite;
-}
 
-@keyframes floating {
-  0% { transform: translate(0, 0px); }
-  50% { transform: translate(0, -10px); }
-  100% { transform: translate(0, 0px); }
-}
-</style>
 
 ## 🚀 About Me
 
@@ -36,7 +26,7 @@ Currently developing **predictive maintenance platforms** and **cabin entertainm
 
 <div align="center">
 
-[Email]: Wj.yann@outlook.com
+Wj.yann@outlook.com
 
 </div>
 
