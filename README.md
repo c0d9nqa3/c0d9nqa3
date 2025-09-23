@@ -6,9 +6,46 @@
   
 </div>
 
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animated-gradient {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.floating {
+  animation: floating 3s ease-in-out infinite;
+}
+
+@keyframes floating {
+  0% { transform: translate(0, 0px); }
+  50% { transform: translate(0, -10px); }
+  100% { transform: translate(0, 0px); }
+}
+
+.pulse {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+</style>
+
 ## 🚀 About Me
 
-<div class="floating">
+<div class="floating" style="font-size: 0.9em;">
 
 🔧 **Embedded Software Engineer** | 🛩️ **Aviation Systems Specialist**  
 🎓 **Master's in Software Engineering** - Northeastern University (GPA: 4.0/4.0, Top 5%)  
@@ -23,27 +60,9 @@ Currently developing **predictive maintenance platforms** and **cabin entertainm
 
 ## 🎯 Key Aviation Projects
 
-<div class="pulse">
+<div class="floating" style="font-size: 0.9em;">
 
-### 🛠️ **Predictive Maintenance Platform**
-Multi-sensor data fusion system for critical aircraft equipment fault prediction
-- **Tech**: Python, C++, Machine Learning | **Impact**: Early warning & lifecycle prediction
-
-</div>
-
-<div class="floating">
-
-### ✈️ **Cabin Entertainment & Maintenance System**  
-Comprehensive cabin management for commercial aircraft
-- **Tech**: Android, Java, C++ | **Features**: Broadcasting, media playback, crew tools
-
-</div>
-
-<div class="pulse">
-
-### 📡 **Aircraft Server & Camera Systems**
-High-availability streaming and centralized video distribution
-- **Tech**: C++, Real-time Protocols | **Focus**: Mission-critical reliability & performance
+Currently developing **predictive maintenance platforms** with multi-sensor data fusion, **cabin entertainment systems** for passenger experience, and **high-availability server solutions** for critical aircraft operations using Python, C++, Java, and real-time protocols.
 
 </div>
 
@@ -53,7 +72,7 @@ High-availability streaming and centralized video distribution
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Wj.yann@outlook.com)
+[Email]:Wj.yann@outlook.com
 
 </div>
 
