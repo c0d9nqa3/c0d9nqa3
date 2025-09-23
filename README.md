@@ -6,7 +6,7 @@
   
 </div>
 
-<div class="floating" style="font-size: 0.9em;">
+<div class="floating" align="center" style="font-size: 0.9em;">
 
  **Embedded Software Engineer** |  **Aviation Systems**  
  **Master's in Software Engineering** - **Northeastern University**
