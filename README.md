@@ -9,8 +9,11 @@
 <div class="floating" align="center" style="font-size: 0.9em;">
 
  **Aviation Systems**  
+ 
  **Embedded Software Engineer at a Shanghai-based research institute**
+ 
  **Master's in Software Engineering** - **Northeastern University**
+ 
  **Machine Learning & NLP** |  **Full-Stack Development**
 
 Currently developing **predictive maintenance platforms** and **cabin entertainment systems** for commercial aircraft
