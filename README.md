@@ -20,12 +20,12 @@ Currently developing **predictive maintenance platforms** and **cabin entertainm
 
 Passionate about music production and creating remixes.
 
-## 🎵 Music Production
+# 🎵 Music Production
 
-> Amateur music producer
+# > Amateur music producer
 
-### Latest Releases:
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://space.bilibili.com/157652774)
+# Latest Releases:
+[![bilibili](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://space.bilibili.com/157652774)
 
 <!-- 如果SoundCloud提供嵌入代码，可以放在这里 -->
 </div>
