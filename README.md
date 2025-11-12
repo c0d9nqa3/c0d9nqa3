@@ -16,8 +16,6 @@
  
  **Machine Learning & NLP** |  **Full-Stack Development**
 
-Passionate about music production and creating remixes.
-
 </div>
 <div align="center">
 
@@ -32,6 +30,6 @@ Wj.yann@outlook.com
 </div>
 <div align="center" class="floating">
 
-*Always excited to collaborate on innovative projects and discuss cutting-edge technologies!*
+*Always excited to collaborate on innovative projects and discuss cutting-edge technologies*
 
 </div>
