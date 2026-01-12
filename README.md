@@ -10,9 +10,9 @@
 
  **Aviation Systems**  
  
- **Embedded Software Engineer at a Shanghai-based research institute**
+ **Embedded Software Engineer**
  
- **Master's in Software Engineering** - **Northeastern University**
+ **Master's in Software Engineering System** - **Northeastern University**
  
  **Machine Learning & NLP** |  **Full-Stack Development**
 
