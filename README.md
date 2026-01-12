@@ -7,8 +7,6 @@
 </div>
 
 <div class="floating" align="center" style="font-size: 0.9em;">
-
- **Aviation Systems**  
  
  **Embedded Software Engineer**
  
